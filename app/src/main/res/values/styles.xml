@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BotonLimpiarEstilo">
+        <item name="android:background">@color/purple_500</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- Otros atributos de estilo aquí -->
+    </style>
+
+    <style name="BotonSumar">
+        <item name="android:background">@color/purple_500</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- Otros atributos de estilo aquí -->
+    </style>
+
+    <style name="BotonRestar">
+        <item name="android:background">@color/purple_500</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- Otros atributos de estilo aquí -->
+    </style>
+
+    <!-- res/values/styles.xml -->
+    <style name="EditText">
+
+    </style>
+
+</resources>
